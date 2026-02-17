@@ -1,0 +1,12 @@
+fastapi
+sqlalchemy
+python-dotenv
+python-multipart
+uvicorn
+numpy
+groq
+pydantic
+requests
+librosa
+pydub 
+scipy

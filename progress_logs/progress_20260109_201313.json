@@ -1,0 +1,164 @@
+[
+  {
+    "timestamp": "2026-01-09T20:12:33.982007",
+    "exercise": "Free speech practice",
+    "transcription": " Free Speech Practice",
+    "score": 97.0,
+    "accuracy": 97.6,
+    "issues": [],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I'm so proud of you for achieving an impressive 97.6% accuracy in this exercise. Your speech rate of 2.5 words/second is also well-paced, allowing for clear and easy-to-follow communication. To further refine your skills, consider experimenting with varying your pause ratio to add emphasis and emotional expression to your speech. Keep up the great work and let's build on this momentum in our next practice session!"
+  },
+  {
+    "timestamp": "2026-01-09T20:11:58.420313",
+    "exercise": "Sally sells seashells by the seashore",
+    "transcription": " Sally sells seashells by the seashore",
+    "score": 97.5,
+    "accuracy": 98.7,
+    "issues": [],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I'm so proud of you for completing the exercise with a high accuracy of 98.7% - that's fantastic! Your speech rate of 2.5 words/second is also great, showing a good balance between clarity and fluency. To take it to the next level, try to work on reducing your pause ratio, aiming for a smoother flow of words. Keep up the excellent work and let's practice more exercises to continue improving your speech skills!"
+  },
+  {
+    "timestamp": "2026-01-09T20:09:24.508728",
+    "exercise": "Free speech practice",
+    "transcription": " Free Speech Practice",
+    "score": 97.0,
+    "accuracy": 97.6,
+    "issues": [],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I'm so proud of you for completing the free speech practice with an impressive accuracy of 97.6%! Your speech rate of 2.5 words/second is also well-paced, making it easy to follow along. To take it to the next level, consider working on varying your pause ratio to add more natural flow to your speech. Keep up the great work and let's build on this momentum in our next session!"
+  },
+  {
+    "timestamp": "2026-01-09T20:08:56.115941",
+    "exercise": "Free speech practice",
+    "transcription": " Testing 1, 2, 3, mic testing 1, 2, 3",
+    "score": 58.7,
+    "accuracy": 21.1,
+    "issues": [
+      "unclear_speech"
+    ],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I can hear that you're trying to speak clearly, and I appreciate your effort in this exercise. To improve, let's work on enunciating each word more clearly, especially when saying numbers - try to separate \"one\", \"two\", and \"three\" more distinctly. Your speech rate is a good pace, so let's focus on clarity next time. Keep practicing, and I'm excited to see your progress in our next session!"
+  },
+  {
+    "timestamp": "2026-01-09T20:06:31.617063",
+    "exercise": "Free speech practice",
+    "transcription": " Hello Hello My Testry 123 123 123 123",
+    "score": 53.4,
+    "accuracy": 10.3,
+    "issues": [
+      "unclear_speech"
+    ],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I can tell you were trying to have fun with this exercise, and I love the energy. To improve, let's focus on speaking clearly - try to enunciate each word, like saying \"Hello\" nice and slow, and then moving on to the next word. Remember, it's okay to take your time, and I'm here to support you. Let's try again, and I'm excited to hear the progress you'll make in our next practice session!"
+  },
+  {
+    "timestamp": "2026-01-09T20:06:00.738015",
+    "exercise": "Free speech practice",
+    "transcription": " Hello Hello Magnus T123123123",
+    "score": 54.2,
+    "accuracy": 12.0,
+    "issues": [
+      "unclear_speech"
+    ],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I can hear that you're trying to get your message across, and that's great. One area to focus on is speaking clearly, as there were some parts that were hard to understand - let's work on enunciating each word, like saying \"Hello\" and \"Magnus\" separately and slowly. You're doing a good job of speaking at a steady pace, with a rate of 2.5 words per second, so let's build on that by practicing clear and slow speech. Keep practicing, and I'm excited to see your progress in our next session!"
+  },
+  {
+    "timestamp": "2026-01-09T20:05:32.590183",
+    "exercise": "Sally sells seashells by the seashore",
+    "transcription": " Mic testing 123 123 123 123 123",
+    "score": 55.4,
+    "accuracy": 14.5,
+    "issues": [
+      "unclear_speech"
+    ],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I love that you were willing to give it a try, even if it didn't quite go as planned. To improve, let's focus on speaking clearly and trying to say the actual words in the exercise, rather than just doing a mic test. Next time, take a deep breath and try to say \"Sally sells seashells by the seashore\" slowly and clearly, and we'll work from there. You've taken the first step, and I'm excited to see your progress in our next session!"
+  },
+  {
+    "timestamp": "2026-01-09T20:05:00.906765",
+    "exercise": "Take your time and speak slowly",
+    "transcription": " Hello Mic testing 123123",
+    "score": 55.3,
+    "accuracy": 14.3,
+    "issues": [
+      "unclear_speech"
+    ],
+    "analysis": {
+      "duration": 1.0,
+      "pause_ratio": 0.2,
+      "speech_rate": 2.5,
+      "repetitions": 0,
+      "lisp_words": [],
+      "high_freq_energy": 0.5,
+      "mfcc_mean": 0.0,
+      "error": "Audio analysis failed: "
+    },
+    "llm_feedback": "I can tell you're trying to get your message across, and I appreciate your effort. To improve, let's focus on slowing down your speech rate - try to aim for about 1.5 words per second, which will help make your words clearer. Remember, it's okay to pause and take your time, and I'd like to see a higher pause ratio in our next exercise to help with clarity. Keep practicing, and I'm excited to see how you'll do in our next session!"
+  }
+]
